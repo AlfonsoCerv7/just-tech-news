@@ -1,7 +1,8 @@
 # Just-Tech-News
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 ## Description
-In this full front and back end project, users can vote on coding related news they view, uses sequelize. 
+In this full front and back end project, users can vote on coding related news they view, uses sequelize. Deployed with Heroku
+https://rocky-journey-78620.herokuapp.com/
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
